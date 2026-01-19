@@ -23,7 +23,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Hi there! I'm Vinayak, an enthusiastic Software Engineer skilled in web development, machine learning, and scalable software solutions
+            Hi there! I'm sufiyan s, an enthusiastic Software Engineer skilled in web development, machine learning, and scalable software solutions
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
@@ -47,8 +47,8 @@ export function About() {
         <ScrollAnimation animateIn="fadeInLeft" delay={550}>
           <div className="experience">
              <h3>Experience:</h3><h4>Software Developer</h4>
-            <p>KIWIS AND BROWNIES IT SOLUTIONS | October 2024 - Present</p>
-            <p>Bangalore, India</p>
+            <p>KIWIS AND BROWNIES IT SOLUTIONS | 2026 - Present</p>
+            <p>Vaniyambadi, India</p>
           </div>
         </ScrollAnimation>
 
@@ -115,7 +115,7 @@ export function About() {
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.21 * 1000}>
-          <img src={VinayakSingh} alt="Vinayak Singh" />
+          <img src={VinayakSingh} alt="sufiyan" />
         </ScrollAnimation>
       </div>
     </Container>
