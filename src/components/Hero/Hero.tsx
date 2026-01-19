@@ -18,15 +18,15 @@ export function Hero() {
         </ScrollAnimation>
 
         <ScrollAnimation animateIn="fadeInUp" delay={200}>
-          <h1>Vinayak Singh</h1>
+          <h1>Sufiyan S</h1>
         </ScrollAnimation>
 
         <ScrollAnimation animateIn="fadeInUp" delay={400}>
-          <h3>Software Engineer</h3>
+          <h3>Data scientist</h3>
         </ScrollAnimation>
 
         <ScrollAnimation animateIn="fadeInUp" delay={600}>
-          <p className="small-resume">1 Year Experience</p>
+          <p className="small-resume">2nd year bsc Data science</p>
         </ScrollAnimation>
 
         <ScrollAnimation animateIn="fadeInUp" delay={800}>
@@ -40,7 +40,7 @@ export function Hero() {
         <ScrollAnimation animateIn="fadeInUp" delay={1000}>
           <div className="social-media">
             <a
-              href="https://www.linkedin.com/in/codevinayak"
+              href="https://www.linkedin.com/in/sufiyan-undefined"
               target="_blank"
               rel="noreferrer"
             >
@@ -56,7 +56,7 @@ export function Hero() {
             </a>
 
             <a
-              href="https://api.whatsapp.com/send/?phone=%2B919630576848&text=Hello+Vinayak+I+found+your+contact+through+portfolio+site.%0A%0A"
+              href="https://api.whatsapp.com/send/?phone=%2B9180986674518&text=Hello+sufiyan+I+found+your+contact+through+portfolio+site.%0A%0A"
               target="_blank"
               rel="noreferrer"
             >
